@@ -19,8 +19,15 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-d
 ---
 ## Benefits
 
-Resources
-RBAC
-IaaC
+* Resources
+* RBAC
+* IaaC
+
+---
+## Azure Resource Manager
+The Azure Resource Manager API is flexible allowing a range of different tools and languages to interact with the platform. Azure Resource Manager provides resource groups, template orchestration, role based access control, custom policies, tagging and auditing features to make it easier for you to build and manage your applications.
+
+The Microsoft cloud platform delivers IaaS and PaaS services. These services are referred to as resources in the ARM model. A typical application consists of various resources in a defined composition. Each
+type of resource is managed by a resource provider. Each resource provider serves resources of a similar type.
 
 ---
