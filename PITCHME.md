@@ -29,7 +29,8 @@ The Azure Resource Manager API is flexible allowing a range of different tools a
 
 The Microsoft cloud platform delivers IaaS and PaaS services. These services are referred to as resources in the ARM model. A typical application consists of various resources in a defined composition. Each
 type of resource is managed by a resource provider. Each resource provider serves resources of a similar type.
+---
 
-![ARM](assets/img/arm_hierarchy.png)
+![](assets/img/arm_hierarchy.png)
 
 ---
