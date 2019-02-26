@@ -1,1 +1,15 @@
 
+.last {
+    color: rgb(21, 108, 180);
+    font-size: 100px;
+}
+
+.maintitle {
+    color: rgb(121, 200, 13);
+    font-size: 100px;
+}
+
+.subtitle {
+    color: rgb(222, 59, 24);
+    font-size: 100px;
+}
