@@ -15,13 +15,13 @@
 ![](assets/img/asm_vs_arm.png)
 
 ---
-## Benefits
+## Benefits:
 
-@css[ fragment ](* Resources)
+@css[ fragment ](Resources)
 
-@css[ fragment ](* RBAC)
+@css[ fragment ](RBAC)
 
-@css[ fragment ](* IaaC)
+@css[ fragment ](IaaC)
 
 ---
 ## Resources
