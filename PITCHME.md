@@ -1,6 +1,6 @@
-@snap[body]
+
 ## How it started
-@snapend
+
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 ## Classic Azure
 
