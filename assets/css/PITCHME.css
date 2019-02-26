@@ -1,6 +1,6 @@
 .body {
     font-family: "if-font";
-    src: url("if-bold.woff.woff") format('woff');
+    src: url("if-bold.woff") format('woff');
 }
 
 .last {
@@ -18,5 +18,8 @@
     font-size: 100px;
 }
 
-.span-5   { width:  5% !important }
+.span-5   { 
+    font-family: "if-hand-font";
+    src: url("if-hand.woff") format('woff');
+}
 .span-10  { width: 10% !important }
