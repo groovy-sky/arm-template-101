@@ -28,15 +28,18 @@
 ## Resources
 
 ---
+
+## ARM analogy to PC
+![](assets/img/arm_hierarchy.png)
+
+---
+
 ## RBAC
 ![](assets/img/rbac_triangle.png)
 
 ---
+
 ## IaaC
-
----
-## ARM analogy to PC
-![](assets/img/arm_hierarchy.png)
-
+![](assets/img/arm_json.png)
 
 ---
