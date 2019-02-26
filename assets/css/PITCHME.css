@@ -1,3 +1,7 @@
+.body {
+    font-family: "if-font";
+    src: url("if-bold.woff.woff") format('woff');
+}
 
 .last {
     color: rgb(21, 108, 180);
