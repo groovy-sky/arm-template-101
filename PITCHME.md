@@ -34,6 +34,6 @@
 ---
 ## ARM analogy to PC
 ![](assets/img/arm_hierarchy.png)
-.
+
 
 ---
