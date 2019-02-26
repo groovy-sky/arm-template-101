@@ -13,3 +13,6 @@
     color: rgb(222, 59, 24);
     font-size: 100px;
 }
+
+.span-5   { width:  5% !important }
+.span-10  { width: 10% !important }
