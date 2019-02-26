@@ -17,9 +17,9 @@
 ---
 ## Benefits
 
-* Resources
-* RBAC
-* IaaC
+[ fragment ](* Resources)
+[ fragment ](* RBAC)
+[ fragment ](* IaaC)
 
 ---
 ## Resources
