@@ -17,9 +17,9 @@
 ---
 ## Benefits
 
-[ fragment ](* Resources)
-[ fragment ](* RBAC)
-[ fragment ](* IaaC)
+@css[ fragment ](* Resources)
+@css[ fragment ](* RBAC)
+@css[ fragment ](* IaaC)
 
 ---
 ## Resources
