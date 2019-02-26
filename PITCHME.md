@@ -1,4 +1,4 @@
-@snap[west span-5]
+@snap[span-5]
 ## How it started
 @snapend
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
