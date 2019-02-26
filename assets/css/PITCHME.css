@@ -1,6 +1,5 @@
 .body {
-    font-family: "if-font";
-    src: url("if-bold.woff") format('woff');
+    font-family: 'Fjalla One', serif !important;
 }
 
 .last {
