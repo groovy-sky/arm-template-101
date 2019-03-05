@@ -40,6 +40,11 @@
 ---
 
 ## IaaC
-![](assets/img/arm_json.png)
+![](assets/img/declarative_model.png)
+
+---
+
+## Toolkit
+![](assets/img/arm_journey.png)
 
 ---
