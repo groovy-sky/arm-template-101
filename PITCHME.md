@@ -68,11 +68,6 @@
 
 ---
 
-## ARM analogy to PC
-![](assets/img/arm_hierarchy.png)
-
----
-
 ## RBAC
 ![](assets/img/rbac.png)
 
