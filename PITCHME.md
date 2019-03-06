@@ -37,7 +37,34 @@
 @css[ fragment ](IaaC)
 
 ---
+
 ## Resources
+![](assets/img/res_00.png)
+
+---
+
+## Resources
+![](assets/img/res_01.png)
+
+---
+
+## Resources
+![](assets/img/res_02.png)
+
+---
+
+## Resources
+![](assets/img/res_03.png)
+
+---
+
+## Resources
+![](assets/img/res_04.png)
+
+---
+
+## Resources
+![](assets/img/res_05.png)
 
 ---
 
@@ -47,12 +74,36 @@
 ---
 
 ## RBAC
-![](assets/img/rbac_triangle.png)
+![](assets/img/rbac.png)
 
 ---
 
+
+## RBAC
+![](assets/img/rbac_00.png)
+
+---
+
+
+## RBAC
+![](assets/img/rbac_01.png)
+
+---
+
+## RBAC
+![](assets/img/rbac_02.png)
+
+---
+
+
 ## IaaC
-![](assets/img/declarative_model.png)
+![](assets/img/decl_00.png)
+
+---
+
+
+## IaaC
+![](assets/img/decl_01.png)
 
 ---
 
