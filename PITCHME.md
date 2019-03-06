@@ -1,13 +1,22 @@
-
-## How it started
-
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
-## Classic Azure
+
+Azure ARM Template
+
+Lasse Saine
+Kristoffer Arfvidson
+Jurijs Fadejevs
+
+---
+## Introduction
+
+![](assets/img/start_00.png)
 
 
 ---
-## Azure v 2.0
 
+## Introduction
+
+![](assets/img/start_01.png)
 
 ---
 
