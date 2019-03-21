@@ -1,9 +1,11 @@
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
+---
 
 Azure ARM Template
 
 Lasse Saine
+
 Kristoffer Arfvidson
+
 Jurijs Fadejevs
 
 ---
@@ -138,5 +140,9 @@ Jurijs Fadejevs
 
 ## Toolkit
 ![](assets/img/arm_05.png)
+
+---
+
+## Any questions?
 
 ---
