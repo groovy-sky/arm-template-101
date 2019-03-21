@@ -1,6 +1,6 @@
 ---
 
-Azure ARM Template
+# Azure ARM Template
 
 Lasse Saine
 
