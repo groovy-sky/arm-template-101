@@ -14,14 +14,11 @@ Jurijs Fadejevs
 ## Hackathon – really?
 ![](assets/img/hack_01.png)
 ---
----
 ## Hackathon – really?
 ![](assets/img/hack_02.png)
 ---
----
 ## Hackathon – really?
 ![](assets/img/hack_03.png)
----
 ---
 ## Hackathon – really?
 ![](assets/img/hack_04.png)
