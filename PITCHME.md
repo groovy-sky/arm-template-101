@@ -127,7 +127,10 @@ Jurijs Fadejevs
 ![](assets/img/decl_01.png)
 
 ---
+## IaaC
+![](assets/img/decl_02.png)
 
+---
 ## Toolkit
 ![](assets/img/arm_00.png)
 
