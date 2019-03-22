@@ -1,6 +1,6 @@
 ---
 
-# Hackathon - How to provision your Azure ARM Template
+## Hackathon - How to provision your Azure ARM Template
 
 Lasse Saine
 
