@@ -9,9 +9,7 @@ Jurijs Fadejevs
 ### A & P conference 26.3.2019
 ---
 ## Hackathon – really?
----
 ![](assets/img/hack_00.png)
-
 ---
 ## Hackathon – really?
 ![](assets/img/hack_01.png)
