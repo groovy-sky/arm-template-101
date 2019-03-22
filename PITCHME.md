@@ -165,7 +165,7 @@ Jurijs Fadejevs
 
 ---
 
-## Toolkit demo #1 – deploy ARM template with Azure portal Gui
+### Toolkit demo #1 – deploy ARM template with Azure portal GUI
 
 Showcase by using only Azure portal GUI:
 * Create XX resource manually
