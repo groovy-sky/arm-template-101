@@ -3,9 +3,11 @@
 ## Hackathon - How to provision your Azure ARM Template
 
 <div style="text-align: right"> 
+ 
 Lasse Saine
 
 Jurijs Fadejevs
+
 </div>
 
 <sub><sup>A & P conference 26.3.2019</sup></sub>
