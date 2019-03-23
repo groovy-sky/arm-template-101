@@ -6,8 +6,6 @@ Lasse Saine
 
 Jurijs Fadejevs
 
-<sub><sup>ifcloud.site</sup></sub>
-
 ### A & P conference 26.3.2019
 ---
 ## Hackathon – really?
@@ -164,6 +162,10 @@ Jurijs Fadejevs
 ---
 
 ## Any questions?
+---
+
+## Additional content
+ifcloud.site
 
 ---
 
