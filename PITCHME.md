@@ -6,7 +6,7 @@ Lasse Saine
 
 Jurijs Fadejevs
 
-### A & P conference 26.3.2019
+<sub><sup>A & P conference 26.3.2019</sup></sub>
 ---
 ## Hackathon – really?
 ![](assets/img/hack_00.png)
