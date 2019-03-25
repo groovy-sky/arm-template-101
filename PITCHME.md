@@ -23,6 +23,10 @@
 ![](assets/img/hack_04.png)
 ---
 
+## Before we start
+![](assets/img/before_present.png)
+
+---
 ## Introduction
 
 ![](assets/img/start_00.png)
