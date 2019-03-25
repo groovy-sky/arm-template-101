@@ -183,5 +183,3 @@
 ---
 # The End
 ![](assets/img/the_end.png)
-
----
