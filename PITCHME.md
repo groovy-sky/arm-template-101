@@ -173,10 +173,15 @@ ifcloud.site
 
 <sub>
 Showcase by using only Azure portal GUI:
+<sub>
 * Create XX resource manually
+ <sub>
 * Delete XX resource
+  <sub>
 * Create XX resource with ARM template
+   <sub>
   * Pick your choice, toolkit is wide (PowerShell, Visual Studio Code etc.)
+    <sub>
   * Easiest to get started: Azure portal, no ”extra” tools needed on your workstation, anybody can try
 </sub>
 
