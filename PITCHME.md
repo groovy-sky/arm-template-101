@@ -24,7 +24,7 @@
 ---
 
 ## Before we start
-![](assets/img/before_present.png)
+![](assets/img/before_we_start.png)
 
 ---
 ## Introduction
