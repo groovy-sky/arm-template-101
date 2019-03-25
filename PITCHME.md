@@ -171,12 +171,13 @@ ifcloud.site
 
 ### Toolkit demo #1 – deploy ARM template with Azure portal GUI
 
+<sub>
 Showcase by using only Azure portal GUI:
 * Create XX resource manually
 * Delete XX resource
 * Create XX resource with ARM template
   * Pick your choice, toolkit is wide (PowerShell, Visual Studio Code etc.)
   * Easiest to get started: Azure portal, no ”extra” tools needed on your workstation, anybody can try
-
+</sub>
 
 ---
