@@ -165,10 +165,8 @@
 ---
 
 ## Any questions?
----
 
-## Additional content
-ifcloud.site
+![](assets/img/before_we_start.png)
 
 ---
 
