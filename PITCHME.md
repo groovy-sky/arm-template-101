@@ -1,8 +1,8 @@
 ---
 
 ### Toolkit demo #1 – deploy ARM template with Azure portal GUI
-@size[0.5em](
-Showcase by using only Azure portal GUI:
+
+@size[0.5em](Showcase by using only Azure portal GUI:)
 * Create XX resource manually
 * Delete XX resource
 * Create XX resource with ARM template
