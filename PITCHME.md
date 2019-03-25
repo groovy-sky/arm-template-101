@@ -3,9 +3,9 @@
 ### Toolkit demo #1 – deploy ARM template with Azure portal GUI
 
 <sub><sup>Showcase by using only Azure portal GUI:
-<sub><sup>* Create XX resource manually
-<sub><sup>* Delete XX resource
-<sub><sup>* Create XX resource with ARM template
+* <sub><sup>Create XX resource manually
+* <sub><sup>Delete XX resource
+* <sub><sup>Create XX resource with ARM template
   * <sub><sup>Pick your choice, toolkit is wide (PowerShell, Visual Studio Code etc.)
   * <sub><sup>Easiest to get started: Azure portal, no ”extra” tools needed on your workstation, anybody can try
 </sup></sub>
