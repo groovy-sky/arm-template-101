@@ -130,6 +130,10 @@
 ![](assets/img/decl_02.png)
 
 ---
+## Azure REST API
+![](assets/img/start_00.png)
+
+---
 ## Toolkit
 ![](assets/img/arm_00.png)
 
