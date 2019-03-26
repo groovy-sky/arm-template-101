@@ -3,6 +3,8 @@
 
 <div style="text-align: right"> Lasse Saine </div>
 
+<div style="text-align: right"> Rickard Öh </div>
+
 <div style="text-align: right"> Jurijs Fadejevs </div>
 
 <sub><sup>A & P conference 26.3.2019</sup></sub>
@@ -25,12 +27,6 @@
 
 ## Before we start
 ![](assets/img/before_we_start.png)
-
----
-## Introduction
-
-![](assets/img/start_00.png)
-
 
 ---
 
