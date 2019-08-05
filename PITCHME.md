@@ -1,5 +1,5 @@
 
-##  How to provision your Azure ARM Template
+##  Getting started with Azure Resource Manager
 
 <div style="text-align: right"> Jurijs Fadejevs </div>
 
