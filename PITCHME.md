@@ -1,33 +1,9 @@
 
 ## Hackathon - How to provision your Azure ARM Template
 
-<div style="text-align: right"> Lasse Saine </div>
-
-<div style="text-align: right"> Rickard Öh </div>
-
 <div style="text-align: right"> Jurijs Fadejevs </div>
 
-<sub><sup>A & P conference 26.3.2019</sup></sub>
----
-## Hackathon – really?
-![](assets/img/hack_00.png)
----
-## Hackathon – really?
-![](assets/img/hack_01.png)
----
-## Hackathon – really?
-![](assets/img/hack_02.png)
----
-## Hackathon – really?
-![](assets/img/hack_03.png)
----
-## Hackathon – really?
-![](assets/img/hack_04.png)
----
-
-## Before we start
-![](assets/img/before_we_start.png)
-
+<sub><sup>August 2019</sup></sub>
 ---
 
 ## Introduction
@@ -170,16 +146,5 @@
 
 ---
 
-### Toolkit demo #1 – deploy ARM template with Azure portal GUI
-
-<sub><sup>Showcase by using only Azure portal GUI:
-* <sub><sup>Create XX resource manually
-* <sub><sup>Delete XX resource
-* <sub><sup>Create XX resource with ARM template
-  * <sub><sup>Pick your choice, toolkit is wide (PowerShell, Visual Studio Code etc.)
-  * <sub><sup>Easiest to get started: Azure portal, no ”extra” tools needed on your workstation, anybody can try
-</sup></sub>
-
----
 # The End
 ![](assets/img/the_end.png)
