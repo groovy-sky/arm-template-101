@@ -140,7 +140,7 @@
 
 ---
 
-## Any questions?
+## Homework
 
 ![](assets/img/before_we_start.png)
 
