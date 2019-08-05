@@ -1,5 +1,5 @@
 
-## Hackathon - How to provision your Azure ARM Template
+##  How to provision your Azure ARM Template
 
 <div style="text-align: right"> Jurijs Fadejevs </div>
 
