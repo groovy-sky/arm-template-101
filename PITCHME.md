@@ -6,6 +6,12 @@
 <sub><sup>August 2019</sup></sub>
 ---
 
+## Before we begin
+
+![](assets/img/before_we_start.png)
+
+---
+
 ## Introduction
 
 ![](assets/img/start_01.png)
